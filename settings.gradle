@@ -1,0 +1,2 @@
+rootProject.name = "Spyder"
+include ':app'
